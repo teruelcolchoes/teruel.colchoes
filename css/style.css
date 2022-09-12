@@ -1,0 +1,95 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(../img/cinza.png);
+    background-repeat: round;
+}
+
+.gradiente {
+    background-image: linear-gradient(to rigth, #A9A9A9, #D3D3D3);
+}
+
+#sobre {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(252, 221, 176);
+}
+
+h1 {
+    color: #D5A016;
+}
+
+h3 {
+    color: #D5A016; 
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.carrossel {
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.icones {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.botao {
+    width: 35%;
+    margin-left: 33%;
+}
+
+.alinhado{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.branco {
+    color: white;
+}
+
+.p1{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+}
+
+.iconex{
+    width: 60%;
+    margin-left: 25%;
+}
+
+.icone{
+    width: 90%;
+    margin-left: 7%;
+}
+
+.contato{
+    width: 20%;
+    margin-left: 40%;
+}
+
+footer {
+    background-color: rgb(24, 23, 23);
+    padding: 1%;
+    font-family: 'Odibee Sans', cursive;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.titulos{
+    color: blanchedalmond;
+}
